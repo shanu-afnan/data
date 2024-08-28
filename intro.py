@@ -1,3 +1,3 @@
-def hello(hi,hello):
+def hello(a,b):
     
     pass
